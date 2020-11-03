@@ -31,6 +31,8 @@ Help your users have successful presentations with a Self Service policy which t
 
 Opt-in / Opt-out via Jamf Pro Self Service
 
+In this session, you'll learn how to leverage Jamf Pro's extension attributes, Smart Groups and the API to allow your end users to easily opt-in and opt-out of your internal beta test program. You'll also learn how to increase end-user engagement and methods to solicit and act on user feedback.
+
 [JNUC 2019](https://youtu.be/AhYPVvO7LwM)
 
 
