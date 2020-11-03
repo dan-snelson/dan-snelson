@@ -15,7 +15,7 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 ## [Presentation Mode](https://github.com/dan-snelson/Presentation-Mode#presentations)
 
-Help your users have successful presentations with a Self Service policy which temporarily extends screensaver password timeouts, computer sleep options and automatic policy executions, then automatically restores approved security settings after a configurable duration.
+Help your users have successful presentations with a Jamf Pro Self Service policy which temporarily extends screensaver password timeouts, computer sleep options and automatic policy executions, then automatically restores approved security settings after a configurable duration.
 
 - [U of U MacAdmins, October 2020](https://stream.lib.utah.edu/index.php?c=details&id=13383)
 
