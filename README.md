@@ -36,8 +36,8 @@ In this session, you'll learn how to leverage Jamf Pro's extension attributes, S
 - [JNUC 2019](https://youtu.be/AhYPVvO7LwM)
 
 
-## [Build Extension Attributes](https://github.com/dan-snelson/Jamf-Pro-Extension-Attributes)
+## [Build Extension Attributes](https://www.jamf.com/jamf-nation/discussions/25815/jnuc-2017-how-to-build-extension-attributes)
 
-Ideal for Commercial and Education audiences. Making Jamf Pro extensible by allowing you to look at settings on a device is one of the most powerful (and sometimes easiest) things you can do. In this session, we will walk through how to use Extension Attributes. This includes how to create an Extension Attribute, how the Extension Attribute is run and how to scope policies around them. This is a beginner session, so while we won't teach you to write a script, we will show you how to grab basic information and initiate automated tasks from that information.
+Making Jamf Pro extensible by allowing you to look at settings on a device is one of the most powerful (and sometimes easiest) things you can do. In this session, we will walk through how to use Extension Attributes. This includes how to create an Extension Attribute, how the Extension Attribute is run and how to scope policies around them. This is a beginner session, so while we won't teach you to write a script, we will show you how to grab basic information and initiate automated tasks from that information.
 
-- [JNUC 2017](https://youtu.be/U6j2CK4NU-4)
+- [JNUC 2017](https://youtu.be/U6j2CK4NU-4) with Timothy Noffke
