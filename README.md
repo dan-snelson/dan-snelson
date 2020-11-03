@@ -7,7 +7,7 @@ Proven history of leveraging personnel strengths and the latest technologies to 
 
 Engaging presenter and seasoned communicator capable of building relationships with all levels of management, while inspiring passion and drive to meet internal and external stakeholders’ goals.
 
-[LinkedIn](https://www.linkedin.com/in/danksnelson/)
+- [LinkedIn](https://www.linkedin.com/in/danksnelson/)
 
 ---
 
@@ -16,7 +16,7 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 Make quick work of routine policy version updates with Jamf Pro Policy Editor Lite, which leverages the Jamf Pro API to automate routine policy version updates via an interactive Bash script.
 
-[JNUC 2020](https://youtu.be/YB9hYTMapG0)
+- [JNUC 2020](https://youtu.be/YB9hYTMapG0)
 
 ---
 
@@ -25,7 +25,7 @@ Make quick work of routine policy version updates with Jamf Pro Policy Editor Li
 
 Help your users have successful presentations with a Self Service policy which temporarily extends screensaver password timeouts, computer sleep options and automatic policy executions, then automatically restores approved security settings after a configurable duration.
 
-[U of U MacAdmins, October 2020](https://stream.lib.utah.edu/index.php?c=details&id=13383)
+- [U of U MacAdmins, October 2020](https://stream.lib.utah.edu/index.php?c=details&id=13383)
 
 
 
@@ -33,4 +33,4 @@ Help your users have successful presentations with a Self Service policy which t
 
 In this session, you'll learn how to leverage Jamf Pro's extension attributes, Smart Groups and the API to allow your end users to easily opt-in and opt-out of your internal beta test program. You'll also learn how to increase end-user engagement and methods to solicit and act on user feedback.
 
-[JNUC 2019](https://youtu.be/AhYPVvO7LwM)
+- [JNUC 2019](https://youtu.be/AhYPVvO7LwM)
