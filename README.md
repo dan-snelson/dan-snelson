@@ -34,3 +34,10 @@ Help your users have successful presentations with a Self Service policy which t
 In this session, you'll learn how to leverage Jamf Pro's extension attributes, Smart Groups and the API to allow your end users to easily opt-in and opt-out of your internal beta test program. You'll also learn how to increase end-user engagement and methods to solicit and act on user feedback.
 
 - [JNUC 2019](https://youtu.be/AhYPVvO7LwM)
+
+
+## [Build Extension Attributes](https://github.com/dan-snelson/Jamf-Pro-Extension-Attributes)
+
+Ideal for Commercial and Education audiences. Making Jamf Pro extensible by allowing you to look at settings on a device is one of the most powerful (and sometimes easiest) things you can do. In this session, we will walk through how to use Extension Attributes. This includes how to create an Extension Attribute, how the Extension Attribute is run and how to scope policies around them. This is a beginner session, so while we won't teach you to write a script, we will show you how to grab basic information and initiate automated tasks from that information.
+
+- [JNUC 2017](https://youtu.be/U6j2CK4NU-4)
