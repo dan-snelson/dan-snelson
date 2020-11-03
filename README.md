@@ -11,16 +11,16 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 ---
 
-# Featured Script
+# Featured Presentations
+
 ## [Jamf Pro Policy Editor Lite](https://github.com/dan-snelson/Jamf-Pro-Policy-Editor-Lite)
 
 Make quick work of routine policy version updates with Jamf Pro Policy Editor Lite, which leverages the Jamf Pro API to automate routine policy version updates via an interactive Bash script.
 
 - [JNUC 2020](https://youtu.be/YB9hYTMapG0)
 
----
 
-# Featured Presentations
+
 ## [Presentation Mode](https://github.com/dan-snelson/Presentation-Mode#presentations)
 
 Help your users have successful presentations with a Self Service policy which temporarily extends screensaver password timeouts, computer sleep options and automatic policy executions, then automatically restores approved security settings after a configurable duration.
@@ -34,6 +34,7 @@ Help your users have successful presentations with a Self Service policy which t
 In this session, you'll learn how to leverage Jamf Pro's extension attributes, Smart Groups and the API to allow your end users to easily opt-in and opt-out of your internal beta test program. You'll also learn how to increase end-user engagement and methods to solicit and act on user feedback.
 
 - [JNUC 2019](https://youtu.be/AhYPVvO7LwM)
+
 
 
 ## [Build Extension Attributes](https://www.jamf.com/jamf-nation/discussions/25815/jnuc-2017-how-to-build-extension-attributes)
