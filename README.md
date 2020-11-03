@@ -1,3 +1,4 @@
+![Dan K. Snelson (Summer 2017)](Dan%20K.%20Snelson%20(Summer%202017).jpg)
 ### Dan K. Snelson
 #### In-the-trenches senior systems engineer, expert in macOS/iOS Enterprise Mobility Management (EMM) in mixed environments
 
