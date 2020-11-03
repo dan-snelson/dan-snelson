@@ -27,6 +27,8 @@ Help your users have successful presentations with a Self Service policy which t
 
 [U of U MacAdmins, October 2020](https://stream.lib.utah.edu/index.php?c=details&id=13383)
 
+
+
 ## [Your Internal Beta Test Program](https://github.com/dan-snelson/Internal-Beta-Test-Program)
 
 Opt-in / Opt-out via Jamf Pro Self Service
@@ -34,6 +36,3 @@ Opt-in / Opt-out via Jamf Pro Self Service
 In this session, you'll learn how to leverage Jamf Pro's extension attributes, Smart Groups and the API to allow your end users to easily opt-in and opt-out of your internal beta test program. You'll also learn how to increase end-user engagement and methods to solicit and act on user feedback.
 
 [JNUC 2019](https://youtu.be/AhYPVvO7LwM)
-
-
----
