@@ -13,19 +13,19 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 # Featured Presentations
 
-## [Jamf Pro Policy Editor Lite](https://github.com/dan-snelson/Jamf-Pro-Policy-Editor-Lite)
-
-Make quick work of routine policy version updates with Jamf Pro Policy Editor Lite, which leverages the Jamf Pro API to automate routine policy version updates via an interactive Bash script.
-
-- [JNUC 2020](https://youtu.be/YB9hYTMapG0)
-
-
-
 ## [Presentation Mode](https://github.com/dan-snelson/Presentation-Mode#presentations)
 
 Help your users have successful presentations with a Self Service policy which temporarily extends screensaver password timeouts, computer sleep options and automatic policy executions, then automatically restores approved security settings after a configurable duration.
 
 - [U of U MacAdmins, October 2020](https://stream.lib.utah.edu/index.php?c=details&id=13383)
+
+
+
+## [Jamf Pro Policy Editor Lite](https://github.com/dan-snelson/Jamf-Pro-Policy-Editor-Lite)
+
+Make quick work of routine policy version updates with Jamf Pro Policy Editor Lite, which leverages the Jamf Pro API to automate routine policy version updates via an interactive Bash script.
+
+- [JNUC 2020](https://youtu.be/YB9hYTMapG0)
 
 
 
