@@ -1,6 +1,11 @@
-![Dan K. Snelson (Summer 2017)](Dan%20K.%20Snelson%20(Summer%202017).jpg)
 ### Dan K. Snelson
 #### In-the-trenches senior systems engineer, expert in macOS/iOS Enterprise Mobility Management (EMM) in mixed environments
+
+Apple- and Jamf-certified, senior systems engineer with more than 20 years of experience contributing to and leading diverse teams who provide design, implementation and support engineering services which consistently delight stakeholders.
+
+Proven history of leveraging personnel strengths and the latest technologies to realize enterprise-wide process improvements.
+
+Engaging presenter and seasoned communicator capable of building relationships with all levels of management, while inspiring passion and drive to meet internal and external stakeholders’ goals.
 
 [LinkedIn](https://www.linkedin.com/in/danksnelson/)
 
