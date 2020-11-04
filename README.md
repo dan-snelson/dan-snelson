@@ -14,7 +14,7 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 # Featured Presentations
 
-## [Presentation Mode](https://github.com/dan-snelson/Presentation-Mode#presentations)
+## [Presentation Mode](https://github.com/dan-snelson/Presentation-Mode/blob/master/README.md)
 
 Help your users have successful presentations with a Jamf Pro Self Service policy which temporarily extends screensaver password timeouts, computer sleep options and automatic policy executions, then automatically restores approved security settings after a configurable duration.
 
@@ -30,7 +30,7 @@ Make quick work of routine policy version updates with Jamf Pro Policy Editor Li
 
 
 
-## [Your Internal Beta Test Program: Opt-in / Opt-out via Jamf Pro Self Service](https://github.com/dan-snelson/Internal-Beta-Test-Program)
+## [Your Internal Beta Test Program: Opt-in / Opt-out via Jamf Pro Self Service](https://github.com/dan-snelson/Internal-Beta-Test-Program/blob/master/README.md)
 
 In this session, you'll learn how to leverage Jamf Pro's extension attributes, Smart Groups and the API to allow your end users to easily opt-in and opt-out of your internal beta test program. You'll also learn how to increase end-user engagement and methods to solicit and act on user feedback.
 
