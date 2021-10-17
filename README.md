@@ -1,11 +1,11 @@
 ## Dan K. Snelson
-### In-the-trenches senior systems engineer, expert in macOS / iOS Enterprise Mobility Management (EMM) in mixed environments
+### In-the-trenches senior systems engineer, expert in macOS / iOS Enterprise Mobility Management (EMM / MDM) in mixed environments
 
-Apple- and Jamf-certified, senior systems engineer with more than 20 years of experience contributing to and leading diverse teams who provide design, implementation and support engineering services which consistently delight stakeholders.
+Apple- and Jamf-certified, senior systems engineer with more than 25 years of experience contributing to and leading diverse teams who provide design, implementation and support engineering services which consistently delight stakeholders.
 
 Proven history of leveraging personnel strengths and the latest technologies to realize enterprise-wide process improvements.
 
-Engaging presenter and seasoned communicator capable of building relationships with all levels of management, while inspiring passion and drive to meet internal and external stakeholders’ goals.
+Engaging presenter and seasoned communicator capable of building relationships with all levels of management, while inspiring passion and drive to meet internal and external stakeholders' goals.
 
 - [LinkedIn](https://www.linkedin.com/in/danksnelson/)
 - [Jamf Nation](https://www.jamf.com/jamf-nation/users/13004/dan-snelson)
@@ -13,6 +13,12 @@ Engaging presenter and seasoned communicator capable of building relationships w
 ---
 
 # Featured Presentations
+
+## [Nudge users to keep macOS up-to-date with Jamf Pro](https://github.com/dan-snelson/Nudge-Post-install/blob/main/README.md)
+
+Nudge is application which reminds your users to keep macOS Big Sur and later up-to-date. Learn how to leverage this open source tool with Jamf Pro.
+
+- [JNUC 2021](https://reg.jamf.com/flow/jamf/jnuc2021/virtualhome/page/sessioncatalog/session/1616180609550001SuD8)
 
 ## [Presentation Mode](https://github.com/dan-snelson/Presentation-Mode/blob/master/README.md)
 
