@@ -18,7 +18,7 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 Nudge is application which reminds your users to keep macOS Big Sur and later up-to-date. Learn how to leverage this open source tool with Jamf Pro.
 
-- [JNUC 2021](https://reg.jamf.com/flow/jamf/jnuc2021/virtualhome/page/sessioncatalog/session/1616180609550001SuD8)
+- [JNUC 2021](https://www.youtube.com/watch?v=6vN9pN0_ZuI)
 
 ## [Presentation Mode](https://github.com/dan-snelson/Presentation-Mode/blob/master/README.md)
 
