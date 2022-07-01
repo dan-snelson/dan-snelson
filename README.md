@@ -16,7 +16,7 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 ## [Your Internal Beta Test Program '22: Invitation-Only Betas](https://reg.jamf.com/flow/jamf/jnuc2022/home22/page/sessioncatalog/session/1644589037629001jXzW)
 
-As a follow-up to the JNUC 2019 "Your Internal Beta Test Program: Opt-in, Opt-out via Self Service" session, learn how to architect invitation-only betas for your elite testers for when your organization pilots new endpoint security solutions, like Jamf Protect, while maintaining your current offerings. In this session, we’ll cover: Jamf Pro extension attributes, Smart Groups, Policies and the API, along with increasing and acting on end-user feedback.
+As a follow-up to the JNUC 2019 "Your Internal Beta Test Program: Opt-in, Opt-out via Self Service" session, learn how to architect invitation-only betas for your elite testers for when your organization pilots new endpoint security solutions, like Jamf Protect, while maintaining your current offerings.
 
 - [JNUC 2022](https://reg.jamf.com/flow/jamf/jnuc2022/home22/page/sessioncatalog/session/1644589037629001jXzW)
 
