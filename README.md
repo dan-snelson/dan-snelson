@@ -21,6 +21,12 @@ As a follow-up to the JNUC 2019 "Your Internal Beta Test Program: Opt-in, Opt-ou
 
 - [JNUC 2022](https://reg.jamf.com/flow/jamf/jnuc2022/home22/page/sessioncatalog/session/1644589037629001jXzW)
 
+## [Tart Open Source Virtualization for Mac Admins](https://snelson.us/2022/05/testing-sideways-jamf-pro-enrollments-with-tart/)
+
+Learn about Continuous Integration (CI) and how to leverage [Tart](https://slack.com/app_redirect?channel=C03QARN6ATV), an open-source tool to run macOS VMs on Macs with Apple silicon.
+
+- [U of U Mac Admins, July 2022](https://stream.lib.utah.edu/index.php?c=details&id=13511)
+
 ## [Nudge users to keep macOS up-to-date with Jamf Pro](https://github.com/dan-snelson/Nudge-Post-install/blob/main/README.md)
 
 Nudge is application which reminds your users to keep macOS Big Sur and later up-to-date. Learn how to leverage this open source tool with Jamf Pro.
@@ -31,7 +37,7 @@ Nudge is application which reminds your users to keep macOS Big Sur and later up
 
 Help your users have successful presentations with a Jamf Pro Self Service policy which temporarily extends screensaver password timeouts, computer sleep options and automatic policy executions, then automatically restores approved security settings after a configurable duration.
 
-- [U of U MacAdmins, October 2020](https://stream.lib.utah.edu/index.php?c=details&id=13383)
+- [U of U Mac Admins, October 2020](https://stream.lib.utah.edu/index.php?c=details&id=13383)
 
 
 
