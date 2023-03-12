@@ -13,6 +13,16 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 ---
 
+# Featured Projects
+
+## [Setup Your Mac](https://github.com/dan-snelson/Setup-Your-Mac/blob/main/README.md)
+
+Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.
+
+- [snelson.us/sym](https://snelson.us/sym)
+
+---
+
 # Featured Presentations
 
 ## [Your Internal Beta Test Program '22: Invitation-Only Betas](https://snelson.us/2022/09/invitation-only-betas/)
