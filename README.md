@@ -25,7 +25,7 @@ Setup Your Mac aims to simplify initial device configuration by leveraging swift
 
 # Featured Presentations
 
-## Setup Your Mac: Racing Stripes, Gotchas and “One More Thing”
+## JNUC 2023 — Setup Your Mac: Racing Stripes, Gotchas and “One More Thing”
 
 Apple’s Automated Device Enrollment helps streamline Mobile Device Management (MDM) enrollment and device supervision during activation, enabling IT to manage enterprise devices with “zero touch.”
 
@@ -33,7 +33,7 @@ Setup Your Mac aims to simplify initial device configuration by leveraging swift
 
 Attendees can prepare now by visiting [snelson.us/sym](https://snelson.us/sym) and come ready to learn SYM racing stripes, gotchas and “one more thing.”
 
-[Register now](https://i.snoball.it/p/BbvZ)
+[Register for JNUC 2023](https://i.snoball.it/p/BbvZ)
 
 ## [Your Internal Beta Test Program '22: Invitation-Only Betas](https://snelson.us/2022/09/invitation-only-betas/)
 
