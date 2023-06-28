@@ -25,6 +25,16 @@ Setup Your Mac aims to simplify initial device configuration by leveraging swift
 
 # Featured Presentations
 
+## Setup Your Mac: Racing Stripes, Gotchas and “One More Thing”
+
+Apple’s Automated Device Enrollment helps streamline Mobile Device Management (MDM) enrollment and device supervision during activation, enabling IT to manage enterprise devices with “zero touch.”
+
+Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro policy “Custom Events” to allow end-users to self-complete Mac setup post-enrollment.
+
+Attendees can prepare now by visiting [snelson.us/sym](https://snelson.us/sym) and come ready to learn SYM racing stripes, gotchas and “one more thing.”
+
+[Register now](https://i.snoball.it/p/BbvZ)
+
 ## [Your Internal Beta Test Program '22: Invitation-Only Betas](https://snelson.us/2022/09/invitation-only-betas/)
 
 As a follow-up to the JNUC 2019 "Your Internal Beta Test Program: Opt-in, Opt-out via Self Service" session, learn how to architect invitation-only betas for your elite testers for when your organization pilots new endpoint security solutions, like Jamf Protect, while maintaining your current offerings.
