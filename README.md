@@ -25,60 +25,43 @@ Setup Your Mac aims to simplify initial device configuration by leveraging swift
 
 # Featured Presentations
 
-## JNUC 2023 — Setup Your Mac: Racing Stripes, Gotchas and “One More Thing”
+## JNUC 2024 — Just Enough of a Good Thing: User-Friendly and Database-Optimized Inventory Updating
+
+> The excitement is real! I'm heading to #JNUC 2024 this October to connect with the best in the IT world and explore new Jamf solutions and product announcements. 
+> 
+> Join me in Nashville and [register today](https://i.snoball.it/p/FnHa/t)
+
+## [JNUC 2023 — Setup Your Mac: Racing Stripes, Gotchas and “One More Thing”](https://www.youtube.com/watch?v=hJUJnaQ_2MI)
 
 Apple’s Automated Device Enrollment helps streamline Mobile Device Management (MDM) enrollment and device supervision during activation, enabling IT to manage enterprise devices with “zero touch.”
 
 Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro policy “Custom Events” to allow end-users to self-complete Mac setup post-enrollment.
 
-Attendees can prepare now by visiting [snelson.us/sym](https://snelson.us/sym) and come ready to learn SYM racing stripes, gotchas and “one more thing.”
-
-[Register for JNUC 2023](https://i.snoball.it/p/BbvZ)
-
-## [Your Internal Beta Test Program '22: Invitation-Only Betas](https://snelson.us/2022/09/invitation-only-betas/)
+## [JNUC 2022 — Your Internal Beta Test Program '22: Invitation-Only Betas](https://snelson.us/2022/09/invitation-only-betas/)
 
 As a follow-up to the JNUC 2019 "Your Internal Beta Test Program: Opt-in, Opt-out via Self Service" session, learn how to architect invitation-only betas for your elite testers for when your organization pilots new endpoint security solutions, like Jamf Protect, while maintaining your current offerings.
 
-- [JNUC 2022](https://snelson.us/2022/09/invitation-only-betas/)
-
-## [Tart Open Source Virtualization for Mac Admins](https://snelson.us/2022/05/testing-sideways-jamf-pro-enrollments-with-tart/)
+## [U of U Mac Admins, July 2022 — Tart Open Source Virtualization for Mac Admins](https://snelson.us/2022/05/testing-sideways-jamf-pro-enrollments-with-tart/)
 
 Learn about Continuous Integration (CI) and how to leverage [Tart](https://slack.com/app_redirect?channel=C03QARN6ATV), an open-source tool to run macOS VMs on Macs with Apple silicon.
 
-- [U of U Mac Admins, July 2022](https://stream.lib.utah.edu/index.php?c=details&id=13511)
-
-## [Nudge users to keep macOS up-to-date with Jamf Pro](https://github.com/dan-snelson/Nudge-Post-install/blob/main/README.md)
+## [JNUC 2021 — Nudge users to keep macOS up-to-date with Jamf Pro](https://www.youtube.com/watch?v=6vN9pN0_ZuI)
 
 Nudge is application which reminds your users to keep macOS Big Sur and later up-to-date. Learn how to leverage this open source tool with Jamf Pro.
 
-- [JNUC 2021](https://www.youtube.com/watch?v=6vN9pN0_ZuI)
+## [U of U Mac Admins, October 2020 — Presentation Mode](https://github.com/dan-snelson/Presentation-Mode/blob/master/README.md)
 
-## [Presentation Mode](https://github.com/dan-snelson/Presentation-Mode/blob/master/README.md)
+Help your users have successful presentations with a [Jamf Pro Self Service policy](https://github.com/dan-snelson/Presentation-Mode) which temporarily extends screensaver password timeouts, computer sleep options and automatic policy executions, then automatically restores approved security settings after a configurable duration.
 
-Help your users have successful presentations with a Jamf Pro Self Service policy which temporarily extends screensaver password timeouts, computer sleep options and automatic policy executions, then automatically restores approved security settings after a configurable duration.
+## [JNUC 2020 — Jamf Pro Policy Editor Lite](https://youtu.be/YB9hYTMapG0)
 
-- [U of U Mac Admins, October 2020](https://stream.lib.utah.edu/index.php?c=details&id=13383)
+Make quick work of routine policy version updates with [Jamf Pro Policy Editor Lite](https://github.com/dan-snelson/Jamf-Pro-Policy-Editor-Lite), which leverages the Jamf Pro API to automate routine policy version updates via an interactive Bash script.
 
+## [JNUC 2019 — Your Internal Beta Test Program: Opt-in / Opt-out via Jamf Pro Self Service](https://youtu.be/AhYPVvO7LwM)
 
-
-## [Jamf Pro Policy Editor Lite](https://github.com/dan-snelson/Jamf-Pro-Policy-Editor-Lite)
-
-Make quick work of routine policy version updates with Jamf Pro Policy Editor Lite, which leverages the Jamf Pro API to automate routine policy version updates via an interactive Bash script.
-
-- [JNUC 2020](https://youtu.be/YB9hYTMapG0)
+In this session, you'll learn how to leverage Jamf Pro's extension attributes, Smart Groups and the API to allow your end users to easily [opt-in and opt-out of your internal beta test program](https://github.com/dan-snelson/Internal-Beta-Test-Program/blob/master/README.md). You'll also learn how to increase end-user engagement and methods to solicit and act on user feedback.
 
 
-
-## [Your Internal Beta Test Program: Opt-in / Opt-out via Jamf Pro Self Service](https://github.com/dan-snelson/Internal-Beta-Test-Program/blob/master/README.md)
-
-In this session, you'll learn how to leverage Jamf Pro's extension attributes, Smart Groups and the API to allow your end users to easily opt-in and opt-out of your internal beta test program. You'll also learn how to increase end-user engagement and methods to solicit and act on user feedback.
-
-- [JNUC 2019](https://youtu.be/AhYPVvO7LwM)
-
-
-
-## [Build Extension Attributes](https://www.jamf.com/jamf-nation/discussions/25815/jnuc-2017-how-to-build-extension-attributes)
+## [JNUC 2017 — Build Extension Attributes](https://www.jamf.com/jamf-nation/discussions/25815/jnuc-2017-how-to-build-extension-attributes)
 
 Making Jamf Pro extensible by allowing you to look at settings on a device is one of the most powerful (and sometimes easiest) things you can do. In this session, we will walk through how to use Extension Attributes. This includes how to create an Extension Attribute, how the Extension Attribute is run and how to scope policies around them. This is a beginner session, so while we won't teach you to write a script, we will show you how to grab basic information and initiate automated tasks from that information.
-
-- [JNUC 2017](https://youtu.be/U6j2CK4NU-4) with Timothy Noffke
