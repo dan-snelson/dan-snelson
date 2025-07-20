@@ -17,7 +17,7 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 ## [Mac Health Check](https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md)
 
-<a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank"><img src="images/MHC_2.0.0_17_seconds.png" alt="Mac Health Check" width="500"></a>
+<a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank"><img src="images/MHC_icon.png" alt="Mac Health Check" width="250"></a>
 
 Mac Health Check provides a practical and user-friendly approach to surfacing Mac compliance information directly to end-users via Jamf Pro Self Service.
 
