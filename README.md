@@ -9,13 +9,24 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 - [Blog](https://snelson.us)
 - [LinkedIn](https://www.linkedin.com/in/danksnelson/)
-- [Jamf Nation](https://www.jamf.com/jamf-nation/users/13004/dan-snelson)
+- [Jamf Nation](https://community.jamf.com/members/dan-snelson-12379)
 
 ---
 
 # Featured Projects
 
-## [Setup Your Mac](https://github.com/dan-snelson/Setup-Your-Mac/blob/main/README.md)
+## [Mac Health Check](https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md)
+
+<img src="images/MHC_2.0.0_17_seconds.png" alt="Mac Health Check" width="500">
+
+Mac Health Check provides a practical and user-friendly approach to surfacing Mac compliance information directly to end-users via Jamf Pro Self Service.
+
+- [snelson.us/mhc](https://snelson.us/mhc)
+
+
+## [Setup Your Mac](https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md)
+
+<img src="images/SYM_icon.png" alt="Setup Your Mac" width="250">
 
 Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.
 
@@ -24,6 +35,10 @@ Setup Your Mac aims to simplify initial device configuration by leveraging swift
 ---
 
 # Featured Presentations
+
+## [U of U Mac Admins, July 2025 — Mac Health Check](https://stream.lib.utah.edu/index.php?c=details&id=13709)
+
+Mac Health Check provides a practical and user-friendly approach to surfacing Mac compliance information directly to end-users via Jamf Pro Self Service.
 
 ## [JNUC 2024 — Just Enough of a Good Thing: User-Friendly and Database-Optimized Inventory Updating](https://www.youtube.com/watch?v=I1w9fl57fpE&t=14s)
 
