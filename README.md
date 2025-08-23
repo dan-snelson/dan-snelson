@@ -9,7 +9,7 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 - [Blog](https://snelson.us)
 - [LinkedIn](https://www.linkedin.com/in/danksnelson/)
-- [Jamf Nation](https://community.jamf.com/members/dan-snelson-12379)
+- [Jamf Nation](https://community.jamf.com/search/activity/topics?userid=12379)
 
 ---
 
