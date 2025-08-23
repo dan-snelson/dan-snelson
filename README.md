@@ -5,7 +5,7 @@
 
 Proven history of leveraging personnel strengths and the latest technologies to realize enterprise-wide process improvements.
 
-Engaging presenter and seasoned communicator capable of building relationships with all levels of management, while inspiring passion and drive to meet internal and external stakeholders' goals.
+Engaging presenter and seasoned communicator capable of building relationships with all levels of management, while inspiring passion and drive to exceed internal and external stakeholders' goals.
 
 - [Blog](https://snelson.us)
 - [LinkedIn](https://www.linkedin.com/in/danksnelson/)
@@ -15,22 +15,9 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 # Featured Projects
 
-## [Mac Health Check](https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md)
-
-<a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank"><img src="images/MHC_icon.png" alt="Mac Health Check" width="250"></a>
-
-Mac Health Check provides a practical and user-friendly approach to surfacing Mac compliance information directly to end-users via Jamf Pro Self Service.
-
-- [snelson.us/mhc](https://snelson.us/mhc)
-
-
-## [Setup Your Mac](https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md)
-
-<a href="https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md" target="_blank"><img src="images/SYM_icon.png" alt="Setup Your Mac" width="250"></a>
-
-Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.
-
-- [snelson.us/sym](https://snelson.us/sym)
+| [Mac Health Check](https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md) | [Setup Your Mac](https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md) |
+|:--|:--|
+| <a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank"><img src="images/MHC_icon.png" alt="Mac Health Check" width="200"></a><br /><br />**Mac Health Check** provides a practical and user-friendly approach to surfacing Mac compliance information directly to end-users via Jamf Pro Self Service.<br /><br />[snelson.us/mhc](https://snelson.us/mhc) | <a href="https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md" target="_blank"><img src="images/SYM_icon.png" alt="Setup Your Mac" height="125"></a><br /><br />Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.<br /><br />[snelson.us/sym](https://snelson.us/sym) |
 
 ---
 
