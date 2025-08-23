@@ -15,11 +15,16 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 # Featured Projects
 
-| [Mac Health Check](https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md) | [Setup Your Mac](https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md) |
-|:--|:--|
-| <a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank"><img src="images/MHC_icon.png" alt="Mac Health Check" width="200"></a><br /><br />**Mac Health Check** provides a practical and user-friendly approach to surfacing Mac compliance information directly to end-users via Jamf Pro Self Service.<br /><br />[snelson.us/mhc](https://snelson.us/mhc) | <a href="https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md" target="_blank"><img src="images/SYM_icon.png" alt="Setup Your Mac" height="125"></a><br /><br />Setup Your Mac aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.<br /><br />[snelson.us/sym](https://snelson.us/sym) |
-
----
+<table style="border: none;">
+  <tr style="background-color: transparent;">
+    <th style="border: none; font-size: 24px;"><a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank">Mac Health Check</a></th>
+    <th style="border: none; font-size: 24px;"><a href="https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md" target="_blank">Setup Your Mac</a></th>
+  </tr>
+  <tr style="background-color: transparent;">
+    <td style="border: none;"><a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank"><img src="images/MHC_icon.png" alt="Mac Health Check" width="200"></a><br /><br /><strong>Mac Health Check</strong> provides a practical and user-friendly approach to surfacing Mac compliance information directly to end-users via Jamf Pro Self Service.<br /><br /><a href="https://snelson.us/mhc" target="_blank">snelson.us/mhc</a></td>
+    <td style="border: none;"><a href="https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md" target="_blank"><img src="images/SYM_icon.png" alt="Setup Your Mac" height="125"></a><br /><br /><strong>Setup Your Mac</strong> aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.<br /><br /><a href="https://snelson.us/sym" target="_blank">snelson.us/sym</a></td>
+  </tr>
+</table>
 
 # Featured Presentations
 
