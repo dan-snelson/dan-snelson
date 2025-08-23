@@ -1,7 +1,7 @@
 ## Dan K. Snelson
 ### In-the-trenches senior systems engineer, expert in macOS / iOS Enterprise Mobility Management (EMM / MDM) in mixed environments
 
-[Apple](https://www.credly.com/badges/d5aa83a0-1f2b-4684-9a91-0b3e6e98c78e/linked_in?t=snmqhu)- and [Jamf](https://community.jamf.com/t5/badges/userbadgespage/user-id/12915/)-certified, senior systems engineer with more than 30 years of experience contributing to and leading diverse teams who provide design, implementation and support engineering services which consistently delight stakeholders.
+[Apple](https://www.credly.com/badges/d5aa83a0-1f2b-4684-9a91-0b3e6e98c78e/linked_in?t=snmqhu)- and [Jamf](https://community.jamf.com/members/dan-snelson-12379)-certified, senior systems engineer with more than 30 years of experience contributing to and leading diverse teams who provide design, implementation and support engineering services which consistently delight stakeholders.
 
 Proven history of leveraging personnel strengths and the latest technologies to realize enterprise-wide process improvements.
 
