@@ -17,8 +17,8 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 <table style="border: none;">
   <tr style="background-color: transparent;">
-    <th style="border: none; font-size: 24px;"><a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank">Mac Health Check</a></th>
-    <th style="border: none; font-size: 24px;"><a href="https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md" target="_blank">Setup Your Mac</a></th>
+    <th style="border: none; font-size: 24px;">Mac Health Check</th>
+    <th style="border: none; font-size: 24px;">Setup Your Mac</th>
   </tr>
   <tr style="background-color: transparent;">
     <td style="border: none;"><a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank"><img src="images/MHC_icon.png" alt="Mac Health Check" width="200"></a><br /><br /><strong>Mac Health Check</strong> provides a practical and user-friendly approach to surfacing Mac compliance information directly to end-users via Jamf Pro Self Service.<br /><br /><a href="https://snelson.us/mhc" target="_blank">snelson.us/mhc</a></td>
