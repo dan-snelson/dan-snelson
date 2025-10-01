@@ -24,7 +24,7 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 # Featured Presentations
 
-## [U of U Mac Admins, July 2025 — Mac Health Check](https://stream.lib.utah.edu/index.php?c=details&id=13709)
+## [Four Corners & Silver State September 2025 Meetup — Mac Health Check](https://arizona.zoom.us/rec/play/eXXmgFbxmyn1n_y81p0qdFwirdYOXua2AyNqcKoLzt0-u8gHgF0FObggPUBN3iIz1cpMZYcvHThlM4Y.WQEsj2NTeNB-ySdj)
 
 Mac Health Check provides a practical and user-friendly approach to surfacing Mac compliance information directly to end-users via Jamf Pro Self Service.
 
