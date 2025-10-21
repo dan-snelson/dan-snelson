@@ -17,12 +17,17 @@ Engaging presenter and seasoned communicator capable of building relationships w
 
 <table style="border: none;">
   <tr style="background-color: transparent;">
+    <td style="border: none;"><br /><br /><a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank"><img src="https://raw.githubusercontent.com/dan-snelson/DDM-OS-Reminder/refs/heads/main/images/ddmOSReminder_Notification.png" alt="DDM OS Reminder" width="200"></a><br /><br /><br /><strong>DDM OS Reminder</strong> is a swiftDialog-enabled script and LaunchDaemon pair for “set-it-and-forget-it” end-user messaging of Apple’s Declarative Device Management-required macOS updates.<br /><br /><a href="https://snelson.us/ddm-os-reminder/" target="_blank">snelson.us/ddm-os-reminder</a></td>
     <td style="border: none;"><br /><a href="https://github.com/dan-snelson/Mac-Health-Check/blob/main/README.md" target="_blank"><img src="images/MHC_icon.png" alt="Mac Health Check" width="200"></a><br /><br /><strong>Mac Health Check</strong> provides a practical and user-friendly approach to surfacing Mac compliance information directly to end-users via Jamf Pro Self Service.<br /><br /><a href="https://snelson.us/mhc" target="_blank">snelson.us/mhc</a></td>
     <td style="border: none;"><a href="https://github.com/setup-your-mac/Setup-Your-Mac/blob/main/README.md" target="_blank"><img src="images/SYM_icon.png" alt="Setup Your Mac" height="125"></a><br /><br /><strong>Setup Your Mac</strong> aims to simplify initial device configuration by leveraging swiftDialog and Jamf Pro Policy Custom Events to allow end-users to self-complete Mac setup post-enrollment.<br /><br /><a href="https://snelson.us/sym" target="_blank">snelson.us/sym</a></td>
   </tr>
 </table>
 
 # Featured Presentations
+
+## [JNUC 2025 — Jamf Pro Performance Tuning: Extension Attribute Audit](https://snelson.us/2025/10/jnuc-2025-jamf-pro-performance-tuning-extension-attribute-audit/)
+
+Apply Sir Dave Brailsford’s “aggregation of marginal gains” to your Jamf Pro Extension Attributes
 
 ## [Four Corners & Silver State September 2025 Meetup — Mac Health Check](https://arizona.zoom.us/rec/play/eXXmgFbxmyn1n_y81p0qdFwirdYOXua2AyNqcKoLzt0-u8gHgF0FObggPUBN3iIz1cpMZYcvHThlM4Y.WQEsj2NTeNB-ySdj)
 
