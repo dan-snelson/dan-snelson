@@ -8,7 +8,7 @@ Proven history of leveraging personnel strengths and the latest technologies to 
 Engaging presenter and seasoned communicator capable of building relationships with all levels of management, while inspiring passion and drive to exceed internal and external stakeholders' goals.
 
 - [Blog](https://snelson.us)
-- [LinkedIn](https://www.linkedin.com/in/danksnelson/)
+- [LinkedIn](https://www.linkedin.com/in/dan-snelson/)
 - [Jamf Nation](https://community.jamf.com/search/activity/topics?userid=12379)
 
 ---
